@@ -1,4 +1,4 @@
-from src.main import *
+from main import *
 
 def test_somar():
     assert somar(10, 10) == 20
