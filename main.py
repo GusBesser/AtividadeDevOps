@@ -14,7 +14,7 @@ def resto(a, b):
     return a % b
 
 print(somar(10, 10))
-print(subtrair(10, 5))
-print(multiplicar(10, 5))
+print(subtrair(10, 10))
+print(multiplicar(10, 10))
 print(dividir(10, 5))
-print(resto(10, 5))
+print(resto(9, 2))
