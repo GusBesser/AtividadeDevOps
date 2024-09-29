@@ -1,7 +1,12 @@
 # AtividadeDevOps
 
-Atividade Somativa de DevOps realizada por Gustavo Esser
+## Atividade Somativa de DevOps realizada por Gustavo Esser
 
-O propósito desta atividade é aprender sobre e testar Unit Testing, 
-workflows de Continuous Integration, Continuous Delivery e o uso 
-de Containers utilizando Dockerhub.
+Como código esse projeto contém apenas um simples arquivo main com algumas funções de operações matemáticas
+#### O propósito deste projeto é aprender sobre e testar:
+
+- Unit Testing
+- Workflows
+- Continuous Integration
+- Continuous Delivery
+- Dockers
